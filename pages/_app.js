@@ -1,4 +1,5 @@
 import "../styles/globals.css";
+import "../styles/navigation-refresh.css";
 import Head from "next/head";
 import AppProviders from "../components/AppProviders";
 import EdgeGlowEffect from "../components/EdgeGlowEffect";
